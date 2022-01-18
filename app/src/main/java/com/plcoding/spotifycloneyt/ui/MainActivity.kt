@@ -73,7 +73,7 @@ class MainActivity : AppCompatActivity() {
                 R.id.homeFragment -> showBottomBar()
                 else -> showBottomBar()
             }
-            print("hello")
+            
         }
 
 
